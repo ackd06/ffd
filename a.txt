@@ -1,4 +1,4 @@
-1 
+bugfixed: 1
 <<<<<<< HEAD
 New line 
 =======
