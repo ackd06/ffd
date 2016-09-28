@@ -1,2 +1,5 @@
 1 
+<<<<<<< HEAD
 New line 
+=======
+>>>>>>> feature
